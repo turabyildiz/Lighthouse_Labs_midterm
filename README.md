@@ -1,7 +1,7 @@
 # Data Science Midterm Project
 
 ## Project/Goals
-(fill in your description and goals here)
+test for access
 
 ## Process
 ### (your step 1)
