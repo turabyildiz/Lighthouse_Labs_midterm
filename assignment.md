@@ -7,7 +7,7 @@ Your tasks are as follows:
 2. Explore, clean and preprocess your data to make it ready for ML Modelling - hints and guidance can be found in the `1 - EDA.ipynb` notebook
 3. (Stretch) Explore some outside data sources - is there any other information you could join to your data that might be helpful to predict housing prices?
 4. Perform EDA on your data to help understand the distributions and relationships between your variables
-5. Save your finalized dataframes (`X_train`, `y_train`, `X_test` and `y_test`) as .csv's in your `data/` directory. You may want to make a `processed` subfolder.
+5. Save your finalized dataframes (`X_train`, `y_train`, `X_test` and `y_test`) as .csv's in your `data/` directory. You may want to make a `processed/` subfolder.
 
 Complete the **1 - EDA.ipynb** notebook to demonstrate how you executed the tasks above. 
 
