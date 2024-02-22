@@ -22,7 +22,7 @@ Complete the **2 - model_selection.ipynb** notebook to demonstrate how you execu
 ## Part 3: Tuning and Pipelining 
 
 1. Perform hyperparameter tuning on the best performing models from Part 2. But be careful! Depending on how you preprocessed your data, you may not be able to use the default Scikit-Learn functions without leaking information. You'll find some helpful starter docstrings in the `3 - tuning_pipeline.ipynb` notebook.
-2. Save your tuned model - you maybe want to create a new `models/` directory in your repo
+2. Save your tuned model - you may want to create a new `models/` directory in your repo
 3. Build a pipeline that performs your preprocessing steps and makes predictions using your tuned model for new data - assume the new data is in the same JSON format as your original data.
 4. Save your final pipeline 
 
