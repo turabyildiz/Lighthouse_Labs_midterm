@@ -45,6 +45,8 @@ Some predictions made by XGBoost model on test dataset:
 
 These predictions provide insights into the model's performance and can be compared against the actual list prices to assess its accuracy.
 
+The 'output.png' shows a visualization
+
 
 ## Challenges 
 
